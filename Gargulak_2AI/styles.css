@@ -163,12 +163,12 @@ footer .container {
 .footer-social img {
     width: 24px;
     height: 24px;
-    filter: brightness(0) invert(1); /* Bílé ikony na tmavém pozadí */
+    filter: brightness(0) invert(1); 
     transition: filter 0.3s;
 }
 
 .footer-social a:hover img {
-    filter: brightness(0) invert(0.7); /* Ztmavení ikon při hoveru */
+    filter: brightness(0) invert(0.7); 
 }
 
 .footer-copyright {
@@ -186,7 +186,7 @@ footer .container {
 
 .details-section h2 {
     font-size: 1.8rem;
-    color: red; /* Červená barva Generali */
+    color: red; 
     margin-bottom: 15px;
     text-align: center;
 }
